@@ -1,0 +1,10 @@
+[window]
+opacity = 0.8
+decorations = "None"
+
+[font]
+normal = { family = "gallant12x22", style = "Regular" }
+bold = { family = "Hack", style = "Bold" }
+italic = { family = "Hack", style = "Italic" }
+bold_italic = { family = "Hack", style = "Bold Italic" }
+size = 12.0

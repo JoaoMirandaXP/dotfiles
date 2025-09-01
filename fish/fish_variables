@@ -1,5 +1,7 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --export CARGO_HOME:/home/jvcm/\x2elocal/share/cargo
+SETUVAR --export RUSTUP_HOME:/home/jvcm/\x2elocal/share/rustup
 SETUVAR __fish_initialized:3800
 SETUVAR fish_color_autosuggestion:brblack
 SETUVAR fish_color_cancel:\x2dr
