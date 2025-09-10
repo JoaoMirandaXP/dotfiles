@@ -3,3 +3,5 @@ if status is-interactive
     alias ls "eza -l --icons $argv" 
     mise activate fish | source
 end
+
+
